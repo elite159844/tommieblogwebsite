@@ -26,8 +26,8 @@ Sites:
 - Fastask
 - swagbucks
 
-
-
+The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
+In my personal opinion these are the best sites you can use, they have great support, fast payouts and more.
 
 ## Conclusion
 
