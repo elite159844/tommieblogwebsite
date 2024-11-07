@@ -6,9 +6,7 @@ title: How to make money online in your free time
 slug: how-to-make-money-in-your-free-time
 featured: true
 draft: false
-tags:
-  - configuration
-  - docs
+
 description: How to make money online effectively
 ---
 
