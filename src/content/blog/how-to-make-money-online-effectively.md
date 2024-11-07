@@ -1,9 +1,9 @@
 ---
 author: Sat Naing
-pubDatetime: 2022-09-23T04:58:53Z
-modDatetime: 2024-10-14T09:27:28.605Z
-title: How to make money in your free time
-slug: how-to-make-money-in-your-free-tome
+pubDatetime: 2024-11-07T03:32:53Z
+modDatetime: 2024-11-07T03:32:28.605Z
+title: How to make money online in your free time
+slug: how-to-make-money-in-your-free-time
 featured: true
 draft: false
 tags:
