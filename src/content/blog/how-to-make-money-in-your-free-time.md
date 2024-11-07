@@ -12,7 +12,7 @@ tags:
 description: How to make money online effectively
 ---
 
-There are many sites where you can make money from. 
+There are many sites where you can make money from. In this blog i'll be talking about tips and tricks on how to do this. 
 
 ## What sites can i use to make money from?
 
