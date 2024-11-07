@@ -25,9 +25,9 @@ There are many sites where you can make money from. In this blog i'll be talking
 - Fastask: (https://fastask.net/app/)
 - Swagbucks: (https://www.swagbucks.com/)
 
-[The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.]
+The sites i [recommend] are earnlab, gain.gg, kash.gg and chequity.io.
 In my personal opinion these are the best sites you can use, they have great support, fast payouts and more.
 
 ## Conclusion
 
-This is the brief specification of how you can customize this theme. You can customize more if you know some coding. For customizing styles, please read [this article](https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/). Thanks for reading.✌🏻
+
