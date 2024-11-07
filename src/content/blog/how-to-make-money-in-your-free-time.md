@@ -25,8 +25,12 @@ There are many sites where you can make money from. In this blog i'll be talking
 - Fastask: (https://fastask.net/app/)
 - Swagbucks: (https://www.swagbucks.com/)
 
-The sites i [recommend] are earnlab, gain.gg, kash.gg and chequity.io.
+The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
 In my personal opinion these are the best sites you can use, they have great support, fast payouts and more.
+
+## Best ways to earn
+
+
 
 ## Conclusion
 
