@@ -2,21 +2,19 @@
 author: Sat Naing
 pubDatetime: 2022-09-23T04:58:53Z
 modDatetime: 2024-10-14T09:27:28.605Z
-title: How to configure AstroPaper theme
-slug: how-to-configure-astropaper-theme
+title: How to make money in your free time
+slug: how-to-make-money-in-your-free-tome
 featured: true
 draft: false
 tags:
   - configuration
   - docs
-description: How you can make AstroPaper theme absolutely yours.
+description: How to make money online effectively
 ---
 
-AstroPaper is a highly customizable Astro blog theme. With AstroPaper, you can customize everything according to your personal taste. This article will explain how you can make some customizations easily in the config file.
+There are many sites where you can make money from. 
 
-## Table of contents
-
-## Configuring SITE
+## What sites can i use to make money from?
 
 The important configurations lies in `src/config.ts` file. Within that file, you'll see the `SITE` object where you can specify your website's main configurations.
 
@@ -25,8 +23,8 @@ During development, it's okay to leave `SITE.website` empty. But in production m
 ```js
 // file: src/config.ts
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
+  website: "https://eliteblogwebsite.netlify.app/",
+  author: "Elite15984",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "AstroPaper",
   ogImage: "astropaper-og.jpg",
