@@ -34,7 +34,7 @@ The image below is a "raid shadow legends" offer, this offer is available for pc
 
 ![Raid Shadow Legends](@assets/images/raid1.PNG)
 
-The Image below are the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
+The Image below shows the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
 
 ![Raid Shadow Legends](@assets/images/raid2.png)
 
