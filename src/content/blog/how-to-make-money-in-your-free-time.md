@@ -14,21 +14,23 @@ There are many sites where you can make money from. In this blog i'll be talking
 
 ## What sites can i use to make money from?
 
-- Earnlab: (https://earnlab.com/earn)
-- Chequity.io: (https://chequity.io/)
-- Gain.gg: (https://gain.gg/earn)
-- Cashhut: (https://cashhut.net/earn)
-- Gainify: (https://gainify.net/)
-- Kash.gg: (https://kash.gg/)
-- Fastask: (https://fastask.net/app/)
-- Swagbucks: (https://www.swagbucks.com/)
+- https://earnlab.com/earn
+- https://chequity.io/
+- https://gain.gg/earn
+- https://cashhut.net/earn
+- https://gainify.net/
+- https://kash.gg/
+- https://fastask.net/app/
+- https://www.swagbucks.com/
 
 The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
 In my personal opinion these are the best sites you can use, they have great support, fast payouts and more.
 
 ## Best ways to earn
 
+Doing game offers are the best way to earn money, other offers like profit offers are also good. Both of these pay the most money. 
 
+![Raid Shadow Legends](@assets/images/raid1.PNG)
 
 ## Conclusion
 
