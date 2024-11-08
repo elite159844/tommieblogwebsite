@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Tommie
 pubDatetime: 2024-11-07T00:31:14.000Z
 modDatetime: 2024-11-08T19:31:14.000Z
 title: How to make money online in your free time
