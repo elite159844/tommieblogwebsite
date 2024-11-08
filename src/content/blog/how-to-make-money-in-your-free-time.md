@@ -64,7 +64,7 @@ Losing internet connection while a game is downloading can cause tracking issues
 If you have any questions, don't hesitate to contact me. 
 
 Gmail: devilblade196@gmail.com
+
 Discord: tommie15984
 
 Join The GPT Community Discord: https://discord.com/invite/freecash
-Check out their website: https://gpthub.gg/
