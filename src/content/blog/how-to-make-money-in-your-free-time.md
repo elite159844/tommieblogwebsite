@@ -24,20 +24,26 @@ There are many sites where you can make money from. In this blog i'll be talking
 - https://www.swagbucks.com
 
 These sites are also know as "GPT Sites" 
-GPT Stand for "Get Paid To"
+GPT Stands for "Get Paid To"
 
 The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
-In my personal opinion these are the best sites you can use, they have great support, fast payouts and more.
+In my personal opinion these are the best sites you can use, they have great support, fast payouts and more. These sites have great support and lots of withdrawl options. 
+
+## What are the withdrawl options
+
+The Image shown below from one of the sites, shows a variety of withdrawl options you can choose from such as giftcards, crypto, and more!
+
+![Withdrawl Options](@assets/images/withdrawl1.PNG)
 
 ## Best Ways To Earn
 
 Doing game offers are the best way to earn money, other offers like profit offers are also good. Both of these pay the most money. For Example an offer will say "make a $5 purchase" usually these type of offers will pay more then what you will pay. 
 
-The image below is a "raid shadow legends" offer, this offer is available for pc.
+The image shown below is a "raid shadow legends" offer, this offer is available for pc.
 
 ![Raid Shadow Legends](@assets/images/raid1.PNG)
 
-The Image below shows the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
+The Image shown below shows the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
 
 ![Raid Shadow Legends](@assets/images/raid2.png)
 
