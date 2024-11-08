@@ -14,14 +14,17 @@ There are many sites where you can make money from. In this blog i'll be talking
 
 ## What sites can i use to make money from?
 
-- https://earnlab.com/earn
-- https://chequity.io/
-- https://gain.gg/earn
-- https://cashhut.net/earn
-- https://gainify.net/
-- https://kash.gg/
-- https://fastask.net/app/
-- https://www.swagbucks.com/
+- https://earnlab.com
+- https://chequity.io
+- https://gain.gg
+- https://cashhut.net
+- https://gainify.net
+- https://kash.gg
+- https://fastask.net
+- https://www.swagbucks.com
+
+These sites are also know as "GPT Sites" 
+GPT Stand for "Get Paid To"
 
 The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
 In my personal opinion these are the best sites you can use, they have great support, fast payouts and more.
