@@ -53,7 +53,7 @@ Spending money on game offers can help speed up progress and make it easier to c
 
 If its your first time doing one, its recommended to reach out to people who might've done this offer before. you can also find guides on reddit, discord, etc.
 
-Some things you should know is that these sites do not permit any sort of vpns, this can get your account terminated. Using emulators and having multiple accounts 
+Another thing you should know is that these sites do not permit any sort of vpns, this can get your account terminated. Using emulators and having multiple accounts 
 is also prohibted. As long as you follow the TOS you should be fine and should't be worried about getting your account banned.
 
 
