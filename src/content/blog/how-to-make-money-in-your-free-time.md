@@ -14,16 +14,16 @@ There are many sites where you can make money from. In this blog i'll be talking
 
 ## What sites can i use to make money from?
 
-- https://earnlab.com
-- https://chequity.io
-- https://gain.gg
-- https://cashhut.net
-- https://gainify.net
-- https://kash.gg
-- https://fastask.net
-- https://www.swagbucks.com
+- 𝗵𝘁𝘁𝗽𝘀://𝗲𝗮𝗿𝗻𝗹𝗮𝗯.𝗰𝗼𝗺
+- 𝗵𝘁𝘁𝗽𝘀://𝗰𝗵𝗲𝗾𝘂𝗶𝘁𝘆.𝗶𝗼
+- 𝗵𝘁𝘁𝗽𝘀://𝗴𝗮𝗶𝗻.𝗴𝗴
+- 𝗵𝘁𝘁𝗽𝘀://𝗰𝗮𝘀𝗵𝗵𝘂𝘁.𝗻𝗲𝘁
+- 𝗵𝘁𝘁𝗽𝘀://𝗴𝗮𝗶𝗻𝗶𝗳𝘆.𝗻𝗲𝘁
+- 𝗵𝘁𝘁𝗽𝘀://𝗸𝗮𝘀𝗵.𝗴𝗴
+- 𝗵𝘁𝘁𝗽𝘀://𝗳𝗮𝘀𝘁𝗮𝘀𝗸.𝗻𝗲𝘁
+- 𝗵𝘁𝘁𝗽𝘀://𝘄𝘄𝘄.𝘀𝘄𝗮𝗴𝗯𝘂𝗰𝗸𝘀.𝗰𝗼𝗺
 
-These sites are also know as "GPT Sites" 
+These sites are also know as "𝗚𝗣𝗧 𝗦𝗶𝘁𝗲𝘀" 
 GPT Stands for "Get Paid To"
 
 The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
@@ -31,7 +31,7 @@ In my personal opinion these are the best sites you can use, they have great sup
 
 ## What are the withdrawl options
 
-The Image shown below from one of the sites, shows a variety of withdrawl options you can choose from such as giftcards, crypto, and more!
+The 𝙄𝙢𝙖𝙜𝙚 shown below from one of the sites, shows a variety of withdrawl options you can choose from such as giftcards, crypto, and more!
 
 ![Withdrawl Options](@assets/images/withdrawl1.PNG)
 
@@ -39,17 +39,17 @@ The Image shown below from one of the sites, shows a variety of withdrawl option
 
 Doing game offers are the best way to earn money, other offers like profit offers are also good. Both of these pay the most money. For Example an offer will say "make a $5 purchase" usually these type of offers will pay more then what you will pay. 
 
-The image shown below is a "raid shadow legends" offer, this offer is available for pc.
+The 𝙄𝙢𝙖𝙜𝙚 shown below is a "raid shadow legends" offer, this offer is available for pc.
 
 ![Raid Shadow Legends](@assets/images/raid1.PNG)
 
-The Image shown below shows the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
+The 𝙄𝙢𝙖𝙜𝙚 shown below shows the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
 
 ![Raid Shadow Legends](@assets/images/raid2.png)
 
 ## Important Things To Know:
 
-Spending money on game offers can help speed up progress and make it easier to complete but the main thing to these game offers is knowledge and strategies. 
+Spending money on game offers can help speed up progress and make it easier to complete but the main thing to these game offers is 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗮𝗻𝗱 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀.
 
 If its your first time doing one, its recommended to reach out to people who might've done this offer before. you can also find guides on reddit, discord, etc.
 
@@ -63,8 +63,8 @@ Losing internet connection while a game is downloading can cause tracking issues
 
 If you have any questions, don't hesitate to contact me. 
 
-Gmail: devilblade196@gmail.com
+𝗚𝗺𝗮𝗶𝗹: devilblade196@gmail.com
 
-Discord: tommie15984
+𝗗𝗶𝘀𝗰𝗼𝗿𝗱: tommie15984
 
-Join The GPT Community Discord: https://discord.com/invite/freecash
+𝗝𝗼𝗶𝗻 𝗧𝗵𝗲 𝗚𝗣𝗧 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗗𝗶𝘀𝗰𝗼𝗿𝗱: https://discord.com/invite/freecash
