@@ -23,7 +23,7 @@ There are many sites where you can make money from. In this blog i'll be talking
 - 𝗵𝘁𝘁𝗽𝘀://𝗳𝗮𝘀𝘁𝗮𝘀𝗸.𝗻𝗲𝘁
 - 𝗵𝘁𝘁𝗽𝘀://𝘄𝘄𝘄.𝘀𝘄𝗮𝗴𝗯𝘂𝗰𝗸𝘀.𝗰𝗼𝗺
 
-These sites are also know as "𝗚𝗣𝗧 𝗦𝗶𝘁𝗲𝘀" 
+These sites are also known as "𝗚𝗣𝗧 𝗦𝗶𝘁𝗲𝘀" 
 GPT Stands for "Get Paid To"
 
 The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
