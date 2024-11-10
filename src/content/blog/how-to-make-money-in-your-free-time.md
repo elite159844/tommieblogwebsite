@@ -56,7 +56,6 @@ If its your first time doing one, its recommended to reach out to people who mig
 Another thing you should know is that these sites do not permit any sort of vpns, this can get your account terminated. Using emulators and having multiple accounts 
 is also prohibted. As long as you follow the TOS you should be fine and shouldn't be worried about getting your account banned.
 
-
 # Minimize Tracking Issues 
 
 Game Offers will require you to allow tracking in the app, so make sure you do that, or else the offer won't track your progress. When you click on a game offer and it redirects you to the app store its recommended that you stay in the app store and open the game from there.
