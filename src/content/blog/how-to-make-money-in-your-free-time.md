@@ -30,7 +30,7 @@ In my personal opinion these are the best sites you can use, they have great sup
 
 ## What are the withdrawl options
 
-The 𝙄𝙢𝙖𝙜𝙚 shown below from one of the sites, shows a variety of withdrawl options you can choose from such as giftcards, crypto, and more!
+The 𝗜𝗺𝗮𝗴𝗲 shown below from one of the sites, shows a variety of withdrawl options you can choose from such as giftcards, crypto, and more!
 
 ![Withdrawl Options](@assets/images/withdrawl1.PNG)
 
@@ -38,11 +38,11 @@ The 𝙄𝙢𝙖𝙜𝙚 shown below from one of the sites, shows a variety of w
 
 Doing game offers are the best way to earn money, other offers like profit offers are also good. Both of these pay the most money. For Example an offer will say "make a $5 purchase" usually these type of offers will pay more then what you will pay. 
 
-The 𝙄𝙢𝙖𝙜𝙚 shown below is a "raid shadow legends" offer, this offer is available for pc.
+The 𝗜𝗺𝗮𝗴𝗲 shown below is a "raid shadow legends" offer, this offer is available for pc.
 
 ![Raid Shadow Legends](@assets/images/raid1.PNG)
 
-The 𝙄𝙢𝙖𝙜𝙚 shown below shows the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
+The 𝗜𝗺𝗮𝗴𝗲 shown below shows the tasks for this offer, it has many steps below it, as you can see on the steps listed it, also shows how much you can get from completing the step. 
 
 ![Raid Shadow Legends](@assets/images/raid2.png)
 
