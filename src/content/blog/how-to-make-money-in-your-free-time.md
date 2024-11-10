@@ -46,7 +46,9 @@ The 𝗜𝗺𝗮𝗴𝗲 shown below shows the tasks for this offer, it has many
 
 ![Raid Shadow Legends](@assets/images/raid2.png)
 
-## Important Things To Know:
+Raid Shadow Legends is one of best offers you can do currently and it pays a lot and you can make a lot of profit from it.
+
+## Important Things To Know
 
 Spending money on game offers can help speed up progress and make it easier to complete but the main thing to these game offers is 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗮𝗻𝗱 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀.
 
@@ -55,7 +57,7 @@ If its your first time doing one, its recommended to reach out to people who mig
 Another thing you should know is that these sites do not permit any sort of vpns, this can get your account terminated. Using emulators and having multiple accounts 
 is also prohibted. As long as you follow the TOS you should be fine and shouldn't be worried about getting your account banned.
 
-# Minimize Tracking Issues 
+## Minimize Tracking Issues 
 
 Game Offers will require you to allow tracking in the app, so make sure you do that, or else the offer won't track your progress. When you click on a game offer and it redirects you to the app store its recommended that you stay in the app store and open the game from there.
 
