@@ -2,15 +2,15 @@
 author: Tommie
 pubDatetime: 2024-11-07T00:31:14.000Z
 modDatetime: 2024-11-07T19:31:14.000Z
-title: How to make money online in your free time
-slug: how-to-make-money-in-your-free-time
+title: Using GPT Sites To Make Money
+slug: Using-GPT-Sites-To-Make-Money
 featured: true
 draft: false
 
 description: How to make money online effectively
 ---
 
-There are many sites where you can make money from. In this blog i'll be talking about tips and tricks on how to do this. 
+There are many sites where you can make money from. 
 
 ## What sites can i use to make money from?
 
