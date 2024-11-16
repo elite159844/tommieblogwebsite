@@ -10,7 +10,7 @@ draft: false
 description: How to make money online effectively
 ---
 
-There are many sites where you can make money from. 
+So for a while now i been using GPT Sites to make money during my free time. this shouldn't be treated as a full time job and should be treated as a side hustle. I recommend NOT to replace your job for this.
 
 ## What sites can i use to make money from?
 
