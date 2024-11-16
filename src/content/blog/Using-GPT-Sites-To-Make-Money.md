@@ -12,7 +12,7 @@ description: How to make money online effectively
 
 So for a while now i been using GPT Sites to make money during my free time. this shouldn't be treated as a full time job and should be treated as a side hustle. I recommend that you DON'T replace your job for this.
 
-## What sites can i use to make money from?
+## GPT Websites
 
 - 𝗵𝘁𝘁𝗽𝘀://𝗲𝗮𝗿𝗻𝗹𝗮𝗯.𝗰𝗼𝗺
 - 𝗵𝘁𝘁𝗽𝘀://𝗰𝗵𝗲𝗾𝘂𝗶𝘁𝘆.𝗶𝗼
@@ -28,13 +28,13 @@ These sites are also known as "𝗚𝗣𝗧 𝗦𝗶𝘁𝗲𝘀", GPT Stands fo
 The sites i recommend are earnlab, gain.gg, kash.gg and chequity.io.
 In my personal opinion these are the best sites you can use, they have great support, fast payouts and more. These sites have great support and lots of withdrawl options. 
 
-## What are the withdrawl options
+## Withdrawl Options
 
 The 𝗜𝗺𝗮𝗴𝗲 shown below from one of the sites, shows a variety of withdrawl options you can choose from such as giftcards, crypto, and more!
 
 ![Withdrawl Options](@assets/images/withdrawl1.PNG)
 
-## Best Ways To Earn
+## Best Offers 
 
 Doing game offers are the best way to earn money, other offers like profit offers are also good. Both of these pay the most money. For Example an offer will say "make a $5 purchase" usually these type of offers will pay more then what you will pay. 
 
