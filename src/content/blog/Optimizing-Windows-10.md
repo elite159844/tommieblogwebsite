@@ -10,7 +10,7 @@ draft: false
 description: Optimize your pc for gaming
 ---
 
-There are many things you can do to make your performance of your pc better. Using these tweaks that i have provided will improve performance in games and reduce your input delay. test ok
+There are many things you can do to make your performance of your pc better. Using these tweaks that i have provided will improve performance in games and reduce your input delay. 
 
 ## Simple Tweaks
 
@@ -18,6 +18,9 @@ Turn on "𝗚𝗮𝗺𝗲 𝗠𝗼𝗱𝗲" In Windows Settings
 Customize your nvidia control panel settings.
 
 The Image shown below are the recommend settings for the nvidia control panel. 
+
+![Nvidia](@assets/images/nvidia1.png)
+![Nvidia](@assets/images/nvidia2.png)
 
 Make sure to restart your PC for these changes to work.
 
