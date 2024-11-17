@@ -25,7 +25,7 @@ The 2 Images shown below are the recommend settings for the nvidia control panel
 
 Click on the google drive link provided below ↓
 
-https://drive.google.com/drive/folders/1BbAi9oVw710QJA5xEWpz2xT_dIccFrZm?usp=sharing
+https://drive.google.com/drive/folders/1UvWL3LIwwGZlb-b2KgscxqX0rkCufTz-?usp=sharing
 
 𝗥𝗘𝗔𝗗 𝗕𝗘𝗙𝗢𝗥𝗘 𝗬𝗢𝗨 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗚𝗢𝗢𝗚𝗟𝗘 𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞:
 
