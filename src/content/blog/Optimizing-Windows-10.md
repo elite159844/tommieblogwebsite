@@ -20,6 +20,7 @@ Customize your nvidia control panel settings.
 The Image shown below are the recommend settings for the nvidia control panel. 
 
 ![Nvidia Control Panel](@assets/images/nvdia1.png)
+
 ![Nvidia Control Panel](@assets/images/nvdia2.png)
 
 Make sure to restart your PC for these changes to work.
