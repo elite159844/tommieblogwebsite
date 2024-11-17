@@ -21,7 +21,7 @@ The Image shown below are the recommend settings for the nvidia control panel. T
 ![Nvidia](@assets/images/nvidia1.png)
 ![Nvidia](@assets/images/nvidia2.png)
 
-# Advanced Tweaks
+## Advanced Tweaks
 
 Click on the google drive link provided below ↓
 
