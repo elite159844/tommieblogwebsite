@@ -16,7 +16,7 @@ There are many things you can do to make your performance of your pc better. Usi
 
 ## Customizing Nvidia Control Panel
 
-The Image shown below are the recommend settings for the nvidia control panel. These settings will improve performance.
+The 2 Images shown below are the recommend settings for the nvidia control panel. These settings will improve performance.
 
 ![Nvidia](@assets/images/nvidia1.png)
 ![Nvidia](@assets/images/nvidia2.png)
