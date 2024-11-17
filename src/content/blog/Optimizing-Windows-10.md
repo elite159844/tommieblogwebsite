@@ -10,7 +10,7 @@ draft: false
 description: Optimize your pc for gaming
 ---
 
-There are many things you can do to make your performance of your pc better. Using these tweaks that i have provided will improve performance in games and reduce your input delay.
+There are many things you can do to make your performance of your pc better. Using these tweaks that i have provided will improve performance in games and reduce your input delay. test ok
 
 ## Simple Tweaks
 
