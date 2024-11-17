@@ -23,11 +23,11 @@ The 2 Images shown below are the recommend settings for the nvidia control panel
 
 ## Advanced Tweaks
 
-Click on the google drive link provided below ↓
+Click on the file hosting website link below ↓
 
-https://drive.google.com/drive/folders/1UvWL3LIwwGZlb-b2KgscxqX0rkCufTz-?usp=sharing
+https://tommieonedrive.pages.dev/
 
-𝗥𝗘𝗔𝗗 𝗕𝗘𝗙𝗢𝗥𝗘 𝗬𝗢𝗨 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗚𝗢𝗢𝗚𝗟𝗘 𝗗𝗥𝗜𝗩𝗘 𝗟𝗜𝗡𝗞:
+𝗥𝗘𝗔𝗗 𝗕𝗘𝗙𝗢𝗥𝗘 𝗬𝗢𝗨 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗙𝗜𝗟𝗘 𝗛𝗢𝗦𝗧 𝗟𝗜𝗡𝗞:
 
 Create a restore point before you do anything
 
