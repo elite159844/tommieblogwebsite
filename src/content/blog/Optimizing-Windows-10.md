@@ -25,3 +25,5 @@ The Image shown below are the recommend settings for the nvidia control panel.
 Make sure to restart your PC for these changes to work.
 
 # Advanced Tweaks
+
+READ BEFORE CLICKING ON THE GOOGLE DRIVE LINK!
