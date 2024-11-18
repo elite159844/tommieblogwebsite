@@ -23,11 +23,11 @@ The 2 Images shown below are the recommend settings for the nvidia control panel
 
 ## Advanced Tweaks
 
-Click on the file hosting website link below ↓
+Click on my file hosting website link below ↓
 
 https://tommieonedrive.pages.dev/
 
-𝗥𝗘𝗔𝗗 𝗕𝗘𝗙𝗢𝗥𝗘 𝗬𝗢𝗨 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗟𝗜𝗡𝗞 𝗧𝗢 𝗧𝗛𝗘 𝗙𝗜𝗟𝗘 𝗛𝗢𝗦𝗧𝗜𝗡𝗚 𝗪𝗘𝗕𝗦𝗜𝗧𝗘:
+𝗥𝗘𝗔𝗗 𝗕𝗘𝗙𝗢𝗥𝗘 𝗬𝗢𝗨 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗧𝗛𝗘 𝗟𝗜𝗡𝗞 𝗧𝗢 𝗠𝗬 𝗙𝗜𝗟𝗘 𝗛𝗢𝗦𝗧𝗜𝗡𝗚 𝗪𝗘𝗕𝗦𝗜𝗧𝗘:
 
 Create a restore point before you do anything
 
