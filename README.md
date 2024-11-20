@@ -5,7 +5,7 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white&style=for-the-badge)](https://conventionalcommits.org)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge)](http://commitizen.github.io/cz-cli/)
 
-I Made "Tommie's Blogs" using an "Astro Paper" Theme.
+I Made "𝗧𝗼𝗺𝗺𝗶𝗲'𝘀 𝗕𝗹𝗼𝗴𝘀" using an "Astro Paper" Theme.
 
 AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro blog theme. This theme is designed and crafted based on [my personal blog](https://eliteblogwebsite.pages.dev/).
 
