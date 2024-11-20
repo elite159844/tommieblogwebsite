@@ -1,7 +1,7 @@
 ---
 author: Tommie
-pubDatetime: 2024-11-20T16:26:30.000Z
-modDatetime: 2024-11-20T21:26:30.936Z
+pubDatetime: 2024-11-20T21:29:03.814Z
+modDatetime: 
 title: Optimizing Windows 10
 slug: Optimizing-Windows-10
 featured: true
