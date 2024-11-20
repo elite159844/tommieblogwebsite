@@ -35,7 +35,7 @@ The point of a restore point is to revert any changes if something goes wrong.
 
 ## Starting the optimization
 
-Download the "𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻" folder. Open the folder after its done downloading and run the "disable uac" before you continue. 
+Download the "𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻" folder. Open the folder after its done downloading and run the "𝗗𝗶𝘀𝗮𝗯𝗹𝗲 𝗨𝗔𝗖" before you continue. 
 
 Open the registry folder and run all registry files in there. 
 Now your gonna want to open the optimization bat folder and run all the bat files in there. 
