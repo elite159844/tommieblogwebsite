@@ -10,6 +10,8 @@ draft: false
 description: How to make money online effectively
 ---
 
+![GPT Picture](@assets/images/gptpic.PNG)
+
 So for a while now i been using GPT Sites to make money during my free time. this shouldn't be treated as a full time job and should be treated as a side hustle. I recommend that you 𝗗𝗢𝗡'𝗧 replace your job for this. 
 
 ## GPT Websites
