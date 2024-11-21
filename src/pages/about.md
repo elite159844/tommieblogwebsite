@@ -8,7 +8,7 @@ The point of this site is for me to write blogs on topics. feel free to read my 
 
 My PC Setup ↓
 
-![2nd Website](@assets/images/pcsetup.PNG)
+![PC Setup](@assets/images/pcsetup.PNG)
 
 Check out my file hosting website ↓
 
