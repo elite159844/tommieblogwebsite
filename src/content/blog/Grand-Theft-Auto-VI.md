@@ -22,7 +22,7 @@ So its been exactly 11 months since the first trailer for gta 6 came out. Many p
 
 ## After The Trailer 
 
-It was the most viewed game trailer ever and reached insane amounts of views in the first 24 hours. I remember watching the trailer back in december of last year and i was hyped. Pretty much december was filled with people talking about the trailer non stop, analyzing every bit of detail. 
+It was the most viewed game trailer ever and reached insane amounts of views in the first 24 hours. I remember watching the trailer back in december of last year and i was hyped. Pretty much december was filled with people talking about the trailer non stop, and analyzing every bit of detail found in the trailer.
 
 ## 2025
 
