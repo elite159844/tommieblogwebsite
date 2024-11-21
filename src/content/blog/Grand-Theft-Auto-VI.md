@@ -1,12 +1,12 @@
 ---
 author: Tommie
-pubDatetime: 2024-11-20T16:53:53.000Z
-modDatetime: 2024-11-20T16:53:53.512Z
+pubDatetime: 2024-11-21T19:36:27.254Z
+modDatetime: 2024-11-21T14:36:27.000Z
 title: Grand Theft Auto VI
 slug: Grand-Theft-Auto-VI
 featured: true
 draft: false
 
-description: my personal opinion on grand theft auto vi
+description: My personal opinion on grand theft auto vi
 ---
 
