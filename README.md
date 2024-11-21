@@ -7,7 +7,7 @@
 
 I Made "𝗧𝗼𝗺𝗺𝗶𝗲'𝘀 𝗕𝗹𝗼𝗴𝘀" using an "Astro Paper" Theme.
 
-AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro blog theme. This theme is designed and crafted based on [my personal blog](https://eliteblogwebsite.pages.dev/).
+AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro blog theme. This theme is designed and crafted based on [my personal blog](https://tommieblogwebsite.pages.dev/).
 
 Installing this theme can be confusing if your a new user to github, i recommend following the installation guide i made below :)
 
