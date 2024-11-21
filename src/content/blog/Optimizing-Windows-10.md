@@ -46,5 +46,9 @@ After your done with those you can start running the bat files in the clean up f
 
 𝗠𝗔𝗞𝗘 𝗦𝗨𝗥𝗘 𝗧𝗢 𝗥𝗘𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗣𝗖 𝗧𝗢 𝗔𝗣𝗣𝗟𝗬 𝗧𝗛𝗘 𝗖𝗛𝗔𝗡𝗚𝗘𝗦!!!
 
+## Conclusion
+
+If you have any questions or need help, don't hestitate to contact me. 
+
 
 
