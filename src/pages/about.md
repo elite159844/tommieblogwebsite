@@ -10,5 +10,5 @@ The point of this site is for me to write blogs on topics. feel free to read my 
 
 https://tommieonedrive.pages.dev/
 
-![GTA 6](@assets/images/2ndwebsite.png)
+![2nd Website](@assets/images/2ndwebsite.PNG)
 
