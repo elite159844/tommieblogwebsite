@@ -7,7 +7,7 @@ slug: Grand-Theft-Auto-VI
 featured: true
 draft: false
 
-description: My personal opinion on grand theft auto vi
+description: My personal thoughts on grand theft auto vi
 ---
 
 ![GTA 6](@assets/images/gta6.png)
