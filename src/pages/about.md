@@ -6,7 +6,7 @@ I'm a 17 year old interested in computers and coding. My favorite hobbies are pl
 
 The point of this site is for me to write blogs on topics. feel free to read my blogs.
 
-𝗖𝗵𝗲𝗰𝗸 𝗼𝘂𝘁 𝗺𝘆 𝗳𝗶𝗹𝗲 𝗵𝗼𝘀𝘁𝗶𝗻𝗴 𝘄𝗲𝗯𝘀𝗶𝘁𝗲:
+Check out my file hosting website:
 
 https://tommieonedrive.pages.dev/
 
