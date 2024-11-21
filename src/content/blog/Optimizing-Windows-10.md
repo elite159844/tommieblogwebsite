@@ -10,6 +10,8 @@ draft: false
 description: Optimize your pc for gaming
 ---
 
+![Nvidia](@assets/images/tweak.PNG)
+
 There are many things you can do to make your performance of your pc better. Using these tweaks that i have provided will improve performance in games and reduce your input delay.
 
  Also another thing that i wanna mention is that this isn't some magic optimization that will boost your fps by 10000, this is simply just to help reduce input lag and slighlty boost your fps. 

@@ -12,3 +12,4 @@ description: My personal opinion on grand theft auto vi
 
 ![GTA 6](@assets/images/gta6.png)
 
+im the middle of writing this blog..
