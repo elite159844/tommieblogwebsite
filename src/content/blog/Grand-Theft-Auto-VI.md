@@ -34,6 +34,6 @@ I've been a gta fan for a while now, i played most of the gta games including, v
 
 I Can't wait to play gta 6 next year, 2025 is gonna be a good year for gaming. 
 
-𝗢𝗳𝗳𝗶𝗰𝗮𝗹 𝗚𝗧𝗔 𝟲 𝗜𝗻𝗳𝗼: https://www.rockstargames.com/VI
+Offical GTA 6 Info https://www.rockstargames.com/VI
 
-𝗚𝗧𝗔 𝟲 𝗧𝗿𝗮𝗶𝗹𝗲𝗿 𝟭: https://www.youtube.com/watch?v=QdBZY2fkU-0&list=TLGGLWZTdZua_3AyMTExMjAyNA&t=1s
+GTA 6 Trailer 1: https://www.youtube.com/watch?v=QdBZY2fkU-0&list=TLGGLWZTdZua_3AyMTExMjAyNA&t=1s
