@@ -12,3 +12,7 @@ https://tommieonedrive.pages.dev/
 
 ![2nd Website](@assets/images/2ndwebsite.PNG)
 
+My Gaming Setup ↓
+
+![PC Setup](@assets/images/pcsetup.PNG)
+
