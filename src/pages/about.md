@@ -14,5 +14,5 @@ https://tommieonedrive.pages.dev/
 
 My Gaming Setup ↓
 
-![PC Setup](@assets/images/pcsetup.PNG)
+![PC Setup](@assets/images/pcsetup.png)
 
