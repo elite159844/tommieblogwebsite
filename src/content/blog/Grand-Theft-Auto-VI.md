@@ -16,7 +16,7 @@ So if you haven't known already, GTA 6 is the most anticipated game ever and its
 
 ## Trailer 2
 
-So Its been exactly 11 months since the first trailer for GTA 6 came out. Many people including me have been anticipating that trailer 2 would come soon. Personally i think trailer 2 will most likely come before the end of this year around november-december, or it could possibily come out early next year. News surrounding gta 6 has been pretty dry and quiet lately.
+So Its been exactly 11 months since the first trailer for GTA 6 came out. Many people including me have been anticipating that trailer 2 would come soon. Personally i think trailer 2 will most likely come before the end of this year around november-december, or it could possibily come out early next year. News surrounding GTA 6 has been pretty dry and quiet lately.
 
 "𝗔𝘁 𝘁𝗵𝗲 𝘁𝗶𝗺𝗲 𝗼𝗳 𝘄𝗿𝗶𝘁𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝗯𝗹𝗼𝗴, 𝗴𝘁𝗮 𝟲 𝘁𝗿𝗮𝗶𝗹𝗲𝗿 𝟭 𝗵𝗮𝘀 𝗿𝗲𝗮𝗰𝗵𝗲𝗱 𝟮𝟮𝟬 𝗺𝗶𝗹𝗹𝗶𝗼𝗻 𝘃𝗶𝗲𝘄𝘀..."
 
